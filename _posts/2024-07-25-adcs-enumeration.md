@@ -179,9 +179,11 @@ Request an enrollment agent certificate (Application Policy - Certificate Reques
 
 Template 1
 ![](../assets/images/Pasted%20image%2020240723002840.png)
-
+- Can request a certificate for Template 1.
+  
 Template 2
 ![](../assets/images/Pasted%20image%2020240723002910.png)
+- Can use the new certificate to request a cert on behalf of any user via Template 2.
 ### ESC4
 Vulnerable ACLs (GenericWrite) over ADCS Certificate Templates
 ![](../assets/images/Pasted%20image%2020240723002419.png)
